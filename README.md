@@ -22,8 +22,6 @@ sudo chmod +x ./unscrabble
   tips: You can at all time CTRL+C to exit the program.
 
 ### Compile from source
-It'e very likely that you won't be able to run the binary file directly, mainly because the .c file was compiled with a different version of gcc than yours. In that case,
-you still can compile it from source!
 - First install the ncurses library
 ```bash
 sudo apt-get install libncurses5-dev libncursesw5-dev
